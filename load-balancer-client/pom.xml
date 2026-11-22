@@ -23,7 +23,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>kata5.Main</mainClass>
+                            <mainClass>software.ulpgc.kata5.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
